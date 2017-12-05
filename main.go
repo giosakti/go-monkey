@@ -6,7 +6,7 @@ import (
   "fmt"
   "os"
   "os/user"
-  "go-monkey/repl"
+  "./repl"
 )
 
 func main() {
